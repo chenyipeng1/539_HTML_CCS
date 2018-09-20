@@ -1,0 +1,31 @@
+body
+{
+	background-color: white;
+}
+h1
+{
+	color:orange;
+	text-align: left;
+}
+h2
+{
+	color: rgb(134, 221, 233);
+	text-align: center;
+}
+
+.text{
+    padding:0px;
+    text-indent:0px/em;
+    line-height:20px;
+}
+
+.partner{
+	float: left;
+	width:33.33%    
+}
+.clear{
+	clear:both;    
+}
+
+a:hover,a:visited{color:blue;}
+
