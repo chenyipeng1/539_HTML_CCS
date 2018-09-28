@@ -13,6 +13,7 @@ h2
 	text-align: center;
 }
 
+
 .text{
     text-indent:1em;
 }
@@ -35,8 +36,10 @@ h2
 .center{
 	text-align:center
 }
-a:hover,a:visited{color:blue;}
 
+nav a{
+	color: blue;
+}
 .back1{
 	background:url('../images/chris_paul.jpg') no-repeat;
 	background-size:100%; 
@@ -69,4 +72,3 @@ a:hover,a:visited{color:blue;}
 	top: -18pt; 
 	left: -6pt;
 }
-
