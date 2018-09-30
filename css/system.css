@@ -36,6 +36,9 @@ h2
 .center{
 	text-align:center
 }
+nav{
+	color: white;
+}
 
 nav a{
 	color: blue;
